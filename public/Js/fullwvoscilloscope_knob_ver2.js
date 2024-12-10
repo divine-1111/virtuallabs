@@ -1,5 +1,6 @@
 /*  Document Name: hlfwvoscilloscope_knob.js
- Author     : MIT
+Created on : 14 oct, 2018
+ Author     : sukriti
  */
 
 var vmaxs;  //in volt
